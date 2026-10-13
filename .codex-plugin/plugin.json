@@ -3,5 +3,5 @@
   "version": "0.2.4",
   "description": "Show available skills and skills read during each response.",
   "hooks": "./hooks/hooks.json",
-  "interface": {"displayName": "Skill Feedback", "shortDescription": "Available skills and reads per response", "category": "Productivity", "developerName": "kwonzweig"}
+  "interface": {"displayName": "Skill Feedback Plugin", "shortDescription": "Available skills and reads per response", "category": "Productivity", "developerName": "kwonzweig"}
 }
