@@ -1,4 +1,4 @@
-# Skill Feedback Plugin
+# Skill Feedback
 
 See available skills and skills read this turn in Codex desktop's **Hook stats**.
 
@@ -25,7 +25,7 @@ codex plugin add skill-feedback@skill-feedback-local
 ```
 
 Allow the hook in **Settings > Hooks**. After a response, open **Hook stats** and
-expand **Skill Feedback Plugin**. Both lists share one icon.
+expand **Skill Feedback**. Both lists share one icon.
 
 ## Limits and privacy
 
